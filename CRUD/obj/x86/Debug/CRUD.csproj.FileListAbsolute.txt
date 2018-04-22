@@ -1,0 +1,15 @@
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\obj\x86\Debug\CRUD.RadForm1.resources
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\obj\x86\Debug\CRUD.csproj.GenerateResource.Cache
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\bin\Debug\Telerik.WinControls.dll
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\bin\Debug\TelerikCommon.dll
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\obj\x86\Debug\CRUD.Properties.Resources.resources
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\obj\x86\Debug\CRUD.exe.licenses
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\obj\x86\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\obj\x86\Debug\CRUD.exe
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\obj\x86\Debug\CRUD.pdb
+F:\CRUD\CRUD\obj\x86\Debug\CRUD.pdb
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\obj\x86\Debug\CRUD.csproj.CopyComplete
+C:\Users\Dany-PC\source\repos\CRUD\CRUD\obj\x86\Debug\CRUD.csprojResolveAssemblyReference.cache
